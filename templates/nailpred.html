@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+  <link rel="shortcut icon" href="images/favicon.png" type="">
+
+  <title>Nail Nail Disease - Disease Prediction</title>
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.css') }}" />
+
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="{{ url_for('static', filename='css/responsive.css') }}" rel="stylesheet" />
+
+  <style>
+    .upload-box {
+      width: 300px;
+      height: 200px;
+      border: 2px dashed #ccc;
+      border-radius: 5px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      margin: 0 auto 20px auto; /* Added margin bottom */
+      position: relative;
+      overflow: hidden;
+    }
+
+    .upload-box:hover {
+      border-color: #ddd;
+    }
+
+    /* Hide the actual file input element */
+    input[type="file"] {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      opacity: 0;
+      cursor: pointer;
+    }
+
+    .upload-box img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    /* Center-align table contents */
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 20px; /* Add gap between Disease Predicted and table */
+    }
+
+    th,
+    td {
+      padding: 8px;
+      border: 1px solid #ddd;
+    }
+
+    th {
+      background-color: #f2f2f2; /* Add background color for table header */
+      text-align: center; /* Center align table headings */
+    }
+
+    /* Add some space between table rows */
+    tbody tr:nth-child(odd) {
+      background-color: #f9f9f9;
+    }
+
+    /* Add hover effect to table rows */
+    tbody tr:hover {
+      background-color: #f2f2f2;
+    }
+
+    /* Align content in table data cells to the left */
+    td {
+      text-align: left;
+    }
+
+    /* Center the submit button */
+    .submitbtn-container {
+      text-align: center;
+    }
+  </style>
+
+</head>
+
+<body class="sub_page">
+
+  <div class="hero_area">
+    <div class="hero_bg_box">
+      <img src="images/hero-bg.png" alt="">
+    </div>
+
+    <header class="header_section">
+      <div class="container">
+        <nav class="navbar navbar-expand-lg custom_nav-container ">
+          <a class="navbar-brand" href="{{ url_for('index')}}">
+            <span>
+              Nail Disease Prediction
+            </span>
+          </a>
+
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class=""> </span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav">
+              <li class="nav-item active">
+                <a class="nav-link" href="{{ url_for('index')}}">Home </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('about')}}"> About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('nailhome')}}"> <b>Use AI for Diagnosis </b></a>
+              </li>
+              <form class="form-inline">
+                <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
+                  <i class="fa fa-search" aria-hidden="true"></i>
+                </button>
+              </form>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </header>
+  </div>
+
+  <div class="container mt-5">
+    <form id="form" action="/nailresult" method="post" enctype="multipart/form-data">
+      <label for="imageupload" class="upload-box">
+        <input type="file" id="imageupload" name="image" accept="image/*" required onchange="updateFileName(this)">
+        <span id="filename">Click to upload image</span>
+        <img id="preview" src="#" alt="" style="display: none;">
+      </label>
+      <div class="submitbtn-container">
+        <input type="submit" class="btn btn-primary" value="Submit">
+      </div>
+    </form>
+  </div>
+
+  <div class="container mt-5">
+    {% if prediction %}
+    <h5 class="diagnosed-text">The Person is diagnosed with <b><i>{{ prediction }}</i></b> Nail Disease</h5>
+
+    <!-- Disease information table -->
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">Causes</th>
+          <th scope="col">Symptoms</th>
+          <th scope="col">Treatment</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <ul>
+              {% for cause in knowledge['Causes'] %}
+              <li>
+                {{ cause }}
+              </li>
+              {% endfor %}
+            </ul>
+          </td>
+          <td>
+            <ul>
+              {% for symptom in knowledge['Symptoms'] %}
+              <li>{{ symptom }}</li>
+              {% endfor %}
+            </ul>
+          </td>
+          <td>
+            <ul>
+              {% for treatment in knowledge['Treatment'] %}
+              <li>{{ treatment }}</li>
+              {% endfor %}
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    {% endif %}
+  </div>
+
+  <footer class="footer_section">
+    <!-- Footer content -->
+  </footer>
+
+  <script>
+    function updateFileName(input) {
+      document.getElementById('filename').innerText = input.files[0].name;
+      const reader = new FileReader();
+      reader.onload = function (e) {
+        document.getElementById('preview').style.display = 'block';
+        document.getElementById('preview').setAttribute('src', e.target.result);
+      }
+      reader.readAsDataURL(input.files[0]);
+    }
+  </script>
+</body>
+
+</html>

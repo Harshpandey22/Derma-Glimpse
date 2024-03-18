@@ -1,0 +1,371 @@
+[{
+  "disease_name": "Muehrck-e_s lines","About": " Muehrcke’s lines, which are white, transverse lines that appear in pairs, indicate an abnormality in the nail’s vascular bed. They are seen as two horizontal white lines that run across the fingernails horizontally.",
+  "Causes": [
+    "Infections",
+    "Severe malnutrition",
+    "Chronic diseases",
+    "Chemotherapy drugs",
+    "Nephrotic syndrome",
+    "Glomerulonephritis",
+    "Liver diseases",
+    "White bands go across the whole nail from side to side.",
+    "Lines do not move as the nail grows.",
+    "The nail bed appears healthy in between the lines.",
+    "Lines are usually most clearly visible on the second, third, and fourth fingers.",
+    "Lines do not result to dents in the nail.",
+    "The lines temporarily disappear when you press down on the fingernail."
+],
+"Symptoms":["Rough, greasy, brown-yellow bumps (papules) on skin and mucous membranes.",
+"Nail abnormalities (red streaks, splitting, brittleness).",
+"Longitudinal broad red and/or white stripes in some or all fingernails.",
+"A V-shaped nick at the free edge of the nail."
+],
+
+  "Treatment":["If your albumin level is too low, you may be given albumin through a vein (by IV, or intravenously). The lines tend to go away when your albumin level returns to normal, or near normal. However, a normal range may vary, depending on the lab that tested your blood."]
+},
+{
+  "disease_name": "Darier_s disease","About": "Darier disease is an autosomal dominant genetic disorder classified as a hereditary acantholytic dermatosis. Darier disease typically presents with scaly crusted papules in a seborrhoeic distribution and in skin folds. This disease is inherited in an autosomal dominant pattern, which means that a single gene passed from one parent causes the condition.",
+  "Causes": [
+    "Abnormal Gene: ATP2A2 (located on chromosome 12q23-24.1)",
+    "Gene Function: Codes for the SERCA enzyme (SarcoEndoplasmic Reticulum Calcium-ATPase) responsible for transporting calcium within cells.",
+    "Potential Disruption: It appears the way skin cells (keratinocytes) connect may be affected.",
+    "Cell Dysfunction: Insufficient calcium due to the abnormal gene might prevent proper assembly of desmosomes, structures that connect skin cells."
+],
+  "Symptoms": [
+    "Rough, greasy, brown-yellow bumps (papules) on skin and mucous membranes.",
+    "Nail abnormalities (red streaks, splitting, brittleness).",
+    "Longitudinal broad red and/or white stripes in some or all fingernails.",
+    "A V-shaped nick at the free edge of the nail."
+],
+  "Treatment": [
+    "Mild disease can be managed with:",
+    "Moisturisers",
+    "Sun protection",
+    "Careful selection of clothing to avoid heat and minimise sweating",
+    "Secondary bacterial infection (usually due to Staphylococcus aureus) should be treated with antibiotics.",
+    "Herpes simplex is treated with aciclovir or valaciclovir.",
+    "Severe Darier disease is usually treated with oral retinoids, either acitretin or isotretinoin.",
+    "Ciclosporin has been reported to be effective in a few patients."
+]
+},
+{
+  "disease_name": "aloperia areata","About": "Alopecia areata is an autoimmune disease. Autoimmune diseases are conditions in which a person’s immune system attacks other tissues in their body. It’s also possible that a person’s genes can make them more likely to have an autoimmune disease. Alopecia areata affects hair follicles and these tiny structures sit just below the surface of the skin, producing different types of hair depending on their location on the body. Our bodies are covered in hair follicles, so alopecia areata can strike anywhere.",
+  "Causes": [
+    "* Immune System Attack: White blood cells attack hair follicles, causing shrinkage and hair loss.",
+    "* Genetics Likely Play a Role: Having a close family member with the disease increases your risk.",
+    "* Possible Link to Other Autoimmune Diseases: Family history of atopy, thyroiditis, or vitiligo might be a factor."
+],
+  "Symptoms":  [
+    "* pinpoint dents appear on nails",
+    "* white spots and lines appear on nails",
+    "* nails become rough",
+    "* nails lose their shine",
+    "* nails become thin and split",
+    "* Exclamation mark hairs: This occurs when few short hairs that get narrower at their bottom and grow in or around the edges of bald spots.",
+    "* Cadaver hairs: This is where hairs break before reaching the skin surface.",
+    "* White hair: This may grow in areas affected by hair loss."
+],
+  "Treatment": [
+    "No permanent cure but below measures will slightly reduce the disease growth:",
+    "* Rubbing onion or garlic juice, cooled green tea, almond oil, rosemary oil, honey, or coconut milk into the scalp.",
+    "* Acupuncture and aromatherapy",
+    "* Steroids injection/application directly to areas where hair is shed."
+]
+},
+{
+  "disease_name": "beau_s lines","About": "Beau's lines are horizontal ridges or grooves that appear on the nails, and can be deep or discolored. They can occur in any age group, and are a sign that nail growth has been interrupted by an injury, illness, or skin condition. Beau's lines can appear in one or more nails, and can be present in all the nails of the hands and feet if the insult was severe or systemic.",
+  "Causes": [
+    "* Illness or severe stress interrupts your nail growth. If you become sick or experience high stress, your body temporarily directs its energy away from growing nails.",
+    "* Injuries damage your nail matrix (where nails start to grow).",
+    "* Long-term health problems interfere with blood flow to your nail matrix.",
+    "* Severe skin conditions damage your nail matrix.",
+    "* Vitamin or nutrient deficiencies interrupt your nail growth.",
+    "* Thyroid disorders, including hyperthyroidism, hypothyroidism, and Hashimoto's disease",
+    "* Major surgery, drug reactions, nutritional deficiencies"
+],
+  "Symptoms": [
+    "* Deep, horizontal depressions across fingernails or toenails.",
+    "* Discoloration of the nail.",
+    "* Severe zinc deficiency due to lack of enough protein.",
+    "* Anxiety disorders."
+],
+  "Treatment": [
+    "* Apply creams or moisturizers for eczema or psoriasis.",
+    "* Avoid manicures, artificial nails, or harsh nail products.",
+    "* Keep blood sugar under control if you have diabetes."
+]
+},
+{
+  "disease_name": "clubbing","About": "Clubbing is a physical sign that causes the ends of one or more fingers or toes to bulge. It's usually painless and bilateral, and the first sign is the loss of the angle between the nail and the nail bed. Clubbing may result from chronic low blood-oxygen levels. This can be seen with cystic fibrosis, congenital cyanotic heart disease, and several other diseases.",
+  "Causes": [
+    "Reduced Oxygen Levels: Lung diseases (e.g., lung cancer, cystic fibrosis), heart problems (congenital heart defects), or other conditions affecting oxygen flow.",
+    "Inflammatory Bowel Disease (IBD): Ulcerative colitis or Crohn's disease.",
+    "Liver Disease: Cirrhosis or other liver problems.",
+    "Certain Infections: HIV/AIDS, fungal infections (rare)."
+],
+  "Symptoms": [
+    "Enlarged, rounded fingertips with soft tissue swelling.",
+    "Nails curve downward, resembling spoons.",
+    "Shiny, reddish skin around the nails.",
+    "Widened fingertips (appears like the fingertip is 'clubbed')."
+],
+  "Treatment": [
+    "There's no cure for nail clubbing itself, but treating the underlying condition can improve nail appearance.",
+    "Treatment depends on the cause (e.g., oxygen therapy for lung problems, medication for IBD)."
+]
+},
+{
+  "disease_name": "eczema","About": "Atopic dermatitis (eczema) is a condition that causes dry, itchy and inflamed skin. It's common in young children but can occur at any age. Atopic dermatitis is long lasting (chronic) and tends to flare sometimes. It can be irritating but it's not contagious.",
+  "Causes": [
+    "Irritants (soaps, detergents, harsh chemicals)",
+    "Allergens (dust mites, pollen, pet dander, food allergies)",
+    "Dry weather",
+    "Stress"
+],
+  "Symptoms": [
+    "Dry, itchy, red, and inflamed skin.",
+    "Small, raised bumps (papules) that may ooze fluid when scratched.",
+    "Thickened, scaly skin (especially in chronic cases).",
+    "Cracked skin, which can be vulnerable to infection.",
+    "Increased sensitivity to certain triggers (e.g., soaps, fabrics, dust mites, pet dander)."
+],
+  "Treatment": [
+    "Moisturizers: To hydrate and soften skin.",
+    "Steroid creams: To reduce inflammation and itching (short-term use).",
+    "Calcineurin inhibitors: Topical medications to suppress immune system activity (alternative to steroids).",
+    "Antihistamines: Oral medications to relieve itching.",
+    "Phototherapy: Light therapy to reduce inflammation.",
+    "Wear loose, comfortable clothing made from soft, breathable fabrics (cotton).",
+    "Take lukewarm baths or showers (avoid hot water).",
+    "Pat skin dry gently instead of rubbing.",
+    "Manage stress through relaxation techniques."
+]
+},
+{
+  "disease_name": "half and half nailes (Lindsay_s nails)","About": "Half-and-half nails, also known as Lindsay's nails, are a nail abnormality that occurs when the proximal part of a nail is white, while the distal half is red, pink, or brown. The two halves are separated by a sharp line, and the darker color on the distal half doesn't fade when pressure is applied.",
+  "Causes": [
+    "Kidney Disease: This is the most common cause, particularly in individuals undergoing hemodialysis.",
+    "Liver Disease: Impaired liver function can also contribute to half-and-half nails.",
+    "Protein Deficiency: A lack of protein in the diet can disrupt nail growth and pigmentation.",
+    "Malnutrition: Overall nutritional deficiencies can manifest in this nail change.",
+    "Heavy Metal Poisoning: Exposure to certain heavy metals can affect nail color and growth."
+],
+  "Symptoms": [
+    "The primary sign is the distinct two-toned appearance of the nails.",
+    "In some cases, the affected nails may be brittle or have other abnormalities."
+],
+  "Treatment": [
+    "There's no specific treatment for half-and-half nails itself.",
+    "The focus is on addressing the underlying cause, such as managing kidney or liver disease or improving dietary intake.",
+    "Once the cause is treated, the normal color pattern of the nail should gradually return as the new nail grows out."
+]
+},
+{
+  "disease_name": "koilonychia","About": "Koilonychia, also known as spoon nails, is a nail disease that causes nails to become abnormally thin and lose their convexity, becoming flat or even concave in shape. The term comes from the Greek words koilos, which means \"hollow\", and onikh, which means \"nail\".",
+  "Causes": [
+    "Iron deficiency anemia: This is the most common cause, especially in women and children.",
+    "Other nutritional deficiencies: Deficiencies in vitamin B12, folate, or protein can also contribute.",
+    "Chronic illnesses: Certain chronic health conditions like thyroid disorders, psoriasis, or rheumatoid arthritis might be associated with koilonychia.",
+    "Trauma: Repeated injuries to the nail bed can damage nail growth and lead to spoon-shaped nails.",
+    "Exposure to certain chemicals: Long-term contact with harsh chemicals or solvents can affect nail health.",
+    "Hereditary factors: In rare cases, koilonychia can be a genetic trait."
+],
+  "Symptoms": [
+    "The primary sign is the inward cupping of the nail plate, resembling a spoon shape.",
+    "The nails may be thin, brittle, and easily break or chip.",
+    "In some cases, the nails may appear pale or have white spots."
+],
+  "Treatment": [
+    "Iron deficiency anemia: Iron supplements are the primary treatment.",
+    "Nutritional deficiencies: Addressing deficiencies through dietary changes or supplements might be recommended.",
+    "Chronic illnesses: Managing the underlying condition can improve nail health.",
+    "Trauma: Avoiding further injury and allowing the nail to grow out is key.",
+    "Chemical exposure: Minimizing contact with harsh chemicals can prevent further damage."
+]
+},
+{
+  "disease_name": "leukonychia","About": "Leukonychia is a common nail condition characterized by white discoloration of the entire nail plate (total leukonychia) or appearing as white spots or lines (partial leukonychia). It can affect fingernails, toenails, or both.",
+  "Causes": [
+    "Trauma: Injury to the nail bed can disrupt nail growth and cause white spots or lines.",
+    "Nutritional deficiencies: Deficiencies in zinc, protein, or certain vitamins can contribute to leukonychia.",
+    "Certain medications: Some medications, like chemotherapy drugs, can cause white nail discoloration.",
+    "Skin conditions: Psoriasis, eczema, or other skin conditions can affect nail health and lead to leukonychia.",
+    "Systemic diseases: In rare cases, leukonychia can be associated with underlying medical conditions like kidney disease or liver problems."
+],
+  "Symptoms": [
+    "The primary symptom is the presence of white spots, lines, or complete whitening of the nail plate.",
+    "The nails themselves might be otherwise healthy or may show additional signs of damage depending on the cause."
+],
+  "Treatment": [
+    "In most cases, leukonychia itself doesn't require specific treatment. The white discoloration usually fades as the nail grows out.",
+    "Addressing the underlying cause, if identified (e.g., treating nutritional deficiencies, avoiding nail injuries), can prevent future occurrences.",
+    "Wear gloves for activities that can injure nails.",
+    "Ensure adequate intake of essential nutrients, including zinc, protein, and B vitamins.",
+    "Avoid harsh chemicals and opt for acetone-free nail polish removers."
+]
+},
+{
+  "disease_name": "onycholycis","About": "Onycholysis is when your nail separates from its nail bed. It often appears after an injury to your nail, but it may have other causes, including fungi. Treatment may only involve cutting away the separated nail as it grows out, or you may need to take antifungal medications or stop using certain nail products.",
+  "Causes": [
+    "Trauma: Injuries to the fingertip or toe, including repeated minor injuries from frequent manicures or nail biting, can damage the nail bed and lead to separation.",
+    "Fungal infections: Onychomycosis, a fungal infection of the nail, can cause the nail plate to loosen and separate from the nail bed.",
+    "Psoriasis: This chronic skin condition can affect the nails, causing pitting, discoloration, and sometimes onycholysis.",
+    "Exposure to chemicals: Frequent contact with harsh chemicals like detergents, cleaning solutions, or certain nail products can irritate the nail bed and contribute to separation.",
+    "Certain medications: Some medications, like diuretics or tetracycline antibiotics, can increase photosensitivity and make nails more susceptible to damage and separation in sunlight.",
+    "Medical conditions: Thyroid disorders, nutritional deficiencies (iron, zinc, protein), and some internal diseases can manifest in nail changes like onycholysis."
+],
+  "Symptoms": [
+    "The primary sign is the visible separation of the nail plate from the nail bed. The separated area may appear white, yellow, or brown depending on the underlying cause.",
+    "The separated nail may feel loose and may be more susceptible to breakage.",
+    "In some cases, the underlying nail bed might be red, inflamed, or show signs of infection."
+],
+  "Treatment": [
+    "Trauma: Avoiding further injury and allowing the nail to grow out is key.",
+    "Fungal infections: Antifungal medications (topical or oral) are needed to treat the infection and promote nail regrowth.",
+    "Psoriasis: Topical medications or other treatments for psoriasis might be necessary.",
+    "Chemical exposure: Minimizing contact with harsh chemicals and using gloves for hand protection is crucial.",
+    "Underlying conditions: Treating the underlying medical condition can improve nail health."
+]
+},
+  {
+    "disease_name": "red lunula",
+    "About": "Red lunula describes a condition where the normally white, crescent-shaped area at the base of your fingernails (lunula) turns red. The lunula is the visible portion of the nail matrix, the part of your finger that produces new nail cells. Red lunula is usually harmless, but it can sometimes be associated with certain medical conditions.",
+    "Causes": [
+    "Injury: Trauma to the fingernail can damage the blood vessels in the nail matrix, leading to redness.",
+    "Inflammation: Conditions that cause inflammation around the nail, such as psoriasis or eczema, can also cause red lunula.",
+    "Autoimmune diseases: Some autoimmune diseases, such as lupus or rheumatoid arthritis, can affect the blood vessels and cause red lunula.",
+    "Liver disease: In some cases, red lunula can be a sign of liver disease.",
+    "Chronic obstructive pulmonary disease (COPD): This lung condition can also be associated with red lunula.",
+    "Nutritional deficiencies: Deficiencies in iron, vitamin B12, or folate can sometimes cause red lunula."
+    ],
+    "Symptoms": [
+    "Full or partial change in the color of the lunula from white to red.",
+    "Pitting of the nail surface.",
+    "Ridging of the nail surface.",
+    "Increased nail brittleness."
+    ],
+    "Treatment": "In most cases, red lunula doesn't require any treatment and will grow out with the nail. However, if you're concerned about it or have other nail changes, see a doctor to rule out any underlying medical conditions. If a condition is found, treatment will focus on addressing that specific cause."
+  },
+  {
+    "disease_name": "splinter hemmorrage",
+    "About": "Splinter hemorrhages are small streaks of blood that appear under your fingernails or toenails. They look like splinters that have gotten lodged under your nail, hence the name.",
+    "Causes": [
+    "Physical Trauma: Stubbing your toe, biting your nails, picking at your nails, getting a manicure or pedicure, slamming your finger in a door, having your nails crushed, etc.",
+    "Underlying Medical Condition: Psoriasis, Lupus, Scleroderma, Bacterial endocarditis (infection of the inner heart lining), Anticoagulant use (blood thinners)"
+    ],
+    "Symptoms": [
+    "Small red or brown streaks under the nail",
+    "Pain or tenderness in the nail bed",
+    "Bruising around the nail"
+    ],
+    "Treatment": "In most cases, splinter hemorrhages don't require any treatment and grow out with your nail as it grows. However, if you have splinter hemorrhages and you're concerned about them, or if you have any other nail changes, such as pain, swelling, or pus, it's a good idea to see a doctor to rule out any underlying medical conditions."
+  },
+    {
+      "disease_name": "terry_s nail",
+      "About": "Terry's nails is a condition characterized by white discoloration of the fingernails or toenails. The nail beds appear white and opaque, lacking the usual lunula (half-moon) at the base, with a thin reddish-brown rim at the tips. The white area typically covers about three-quarters of the nail plate.",
+      "Causes": [
+      "Cirrhosis of the liver",
+      "Congestive heart failure",
+      "Diabetes mellitus",
+      "Kidney failure",
+      "Viral hepatitis"
+      ],
+      "Symptoms": [
+      "White discoloration of the nails with a normal-colored tip",
+      "Spoon nails (inwardly curved nails)",
+      "Beau's lines (deep indentations across the nail plate)"
+      ],
+      "Treatment": "There is no specific treatment for Terry's nails itself. The focus is on addressing the underlying medical condition causing the nail changes. Early diagnosis and treatment of the underlying condition can help prevent complications."
+    },
+
+  {
+    "disease_name": "yellow nails",
+    "About": "Yellow nails is a condition that can cause discoloration, thickening, and curvature of the fingernails and toenails. While it can sometimes occur due to external factors like nail polish or smoking, it can also be a sign of underlying medical conditions.",
+    "Causes": [
+    "External Factors:",
+    "  * Nail polish use: Certain polishes can stain nails yellow, especially with prolonged use or improper removal.",
+    "  * Acrylic nails: Chemicals used in application or removal processes can cause yellowing.",
+    "  * Smoking: Tar and nicotine from cigarettes can stain nails yellow.",
+    "Medical Conditions:",
+    "  * Fungal infections (onychomycosis)",
+    "  * Psoriasis: A chronic skin condition that can affect nails",
+    "  * Yellow nail syndrome: A rare condition linked to lung problems",
+    "  * Thyroid disorders: An underactive thyroid (hypothyroidism)",
+    "  * Liver disease",
+    "  * Nutrient deficiencies: Deficiencies in vitamins or minerals like biotin"
+    ],
+    "Symptoms": [
+    "Slow or stopped nail growth",
+    "Thickened, yellow, or green nails",
+    "Detachment of nails from the nail bed",
+    "Swelling (lymphedema) in legs and ankles (in about 80% of cases)",
+    "Respiratory symptoms (in about 40% of cases):",
+    "Chronic cough",
+    "Sinus infections (sinusitis)",
+    "Pneumonia",
+    "Fluid buildup in lung tissue (pleural effusions)"
+    ],
+    "Treatment": ["There is no cure for yellow nails, but treatment can help manage symptoms and slow progression. Treatment depends on the underlying cause. Here are some examples:",
+    "Vitamin E supplements or topical creams/gels for nail changes",
+    "Corticosteroid creams to reduce nail inflammation",
+    "Antibiotics for recurrent respiratory infections"
+  ]
+    },
+{
+"disease_name": "pale nail","About": "Pale nails, also known as pallor, occur when the nail bed beneath the fingernail appears pale or white. This can affect all fingernails or just a few. While not always a cause for concern, pale nails can sometimes indicate an underlying health condition.",
+  "Causes": [
+  "Reduced blood flow: This can be caused by various factors like anemia (low red blood cell count), Raynaud's disease (reduced blood flow in the fingers and toes), or peripheral artery disease (narrowing of the arteries in the legs and feet).",
+  "Nutritional deficiencies: Lack of iron, vitamin B12, or folate can contribute to pale nails.",
+  "Liver or kidney disease: These can affect blood flow and nutrient absorption, leading to pale nails.",
+  "Certain medications: Some medications can cause pale nails as a side effect.",
+  "Melanoma (rare): A dark form of skin cancer can sometimes appear under the nail, making it look pale from above."
+],
+  "Symptoms": [
+  "The primary symptom is pale or white coloration of the nail bed.",
+  "In some cases, the nail plate itself may become thin or brittle."
+]
+,"Treatment": [
+  "Treating pale nails depends on the underlying cause.",
+  "If a nutritional deficiency is suspected, addressing that deficiency through diet or supplements may be recommended.",
+  "In other cases, treating the underlying health condition is necessary."
+]
+},
+{
+"disease_name": "white nail","About": " Pale nails, also known as white nails, can be a sign of various underlying conditions. These include anemia (low red blood cells), nutritional deficiencies (calcium and protein), or even chronic diseases like heart disease, kidney disease, or diabetes. While white nails can sometimes indicate a fungal infection, a completely white nail bed often suggests a more serious issue.",
+  "Causes": [
+  "Minor injuries: Biting nails, hitting your fingers, or excessive manicures can cause white spots.",
+  "Health conditions: Certain medical conditions like anemia, kidney disease, liver disease, psoriasis, or heart disease can sometimes manifest as white nails.",
+  "Nutritional deficiencies: Lack of zinc, protein, or certain vitamins can contribute to white nails.",
+  "Medications: Some medications may have white nails as a side effect.",
+  "Allergic reactions: Allergies to nail polish or other products can cause white spots or lines."
+],
+  "Symptoms":  [
+  "The primary symptom is the white discoloration of the nail plate.",
+  "In some cases, the nail may become brittle or develop ridges."
+]
+,"Treatment": [
+  "If it's caused by minor injuries or allergies, the white spots will usually grow out with the nail.",
+  "Addressing the underlying cause: If white nails are linked to a health condition, nutritional deficiency, or medication side effect, treating the root cause will help prevent future occurrences.",
+  "Maintaining healthy nails: Practices like avoiding harsh chemicals, keeping nails moisturized, and maintaining a balanced diet can promote healthy nail growth."
+]
+},
+{
+"disease_name": "bluish nail","About": "Bluish nails, also known as cyanosis, occur when the nail beds appear blue or purple due to a lack of oxygen circulating in the blood flow to the fingertips. This discoloration can affect all fingernails or just a few. Cyanosis is a symptom rather than a disease itself and can indicate various underlying conditions.",
+  "Causes":  [
+  "Reduced blood flow: This can be caused by factors like heart disease, peripheral artery disease (PAD), Raynaud's disease, or cold weather exposure.",
+  "Lung problems: Conditions like chronic obstructive pulmonary disease (COPD) or asthma can lead to reduced oxygen levels in the blood, causing bluish nails.",
+  "Certain medications: Some medications can have cyanosis as a side effect.",
+  "Congenital heart defects (rare): In rare cases, a heart defect present at birth can cause bluish nails."
+]
+,"Symptoms": [
+  "The primary symptom is the bluish or purplish discoloration of the nail beds.",
+  "In some cases, the lips and skin around the fingernails might also appear blue.",
+  "Shortness of breath, chest pain, or fatigue may accompany cyanosis, depending on the underlying cause."
+], "Treatment": [
+  "Treating the underlying condition: Addressing the cause, like heart disease, lung problems, or blood circulation issues, is crucial for preventing future cyanosis episodes.",
+  "Oxygen therapy: In severe cases with low oxygen levels, oxygen therapy may be necessary.",
+  "Lifestyle changes: Quitting smoking, maintaining a healthy weight, and exercising regularly can improve blood circulation and overall health."
+]
+}
+
+]
